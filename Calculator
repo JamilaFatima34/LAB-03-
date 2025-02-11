@@ -1,2 +1,18 @@
 Jamila Fatima
 24-ST-042
+
+Addition:
+Console.WriteLine("Add two variables");
+inta = Convert.ToInt32(Console.ReadLine());
+
+Subtraction:
+Console.WriteLine("subtract two variables");
+inta = Convert.ToInt32(Console.ReadLine());
+
+Multiplication:
+Console.WriteLine("product two variables");
+inta = Convert.ToInt32(Console.ReadLine());
+
+Division:
+Console.WriteLine("division two variables");
+inta = Convert.ToInt32(Console.ReadLine());
