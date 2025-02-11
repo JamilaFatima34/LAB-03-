@@ -8,3 +8,7 @@ inta = Convert.ToInt32(Consle.ReadLine());
 Subtraction:
 Console.WriteLine("subtract two variables");
 inta = Convert.ToInt32(Consle.ReadLine());
+
+Multiplication:
+Console.WriteLine("product two variables");
+inta = Convert.ToInt32(Consle.ReadLine());
