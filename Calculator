@@ -4,3 +4,7 @@ Jamila Fatima
 Addition:
 Console.WriteLine("Add two variables");
 inta = Convert.ToInt32(Consle.ReadLine());
+
+Subtraction:
+Console.WriteLine("subtract two variables");
+inta = Convert.ToInt32(Consle.ReadLine());
